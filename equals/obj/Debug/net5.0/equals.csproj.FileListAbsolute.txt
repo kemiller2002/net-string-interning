@@ -1,0 +1,16 @@
+C:\projects\net-string-interning\equals\obj\Debug\net5.0\equals.csprojAssemblyReference.cache
+C:\projects\net-string-interning\equals\obj\Debug\net5.0\equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\net-string-interning\equals\obj\Debug\net5.0\equals.AssemblyInfoInputs.cache
+C:\projects\net-string-interning\equals\obj\Debug\net5.0\equals.AssemblyInfo.cs
+C:\projects\net-string-interning\equals\obj\Debug\net5.0\equals.csproj.CoreCompileInputs.cache
+C:\projects\net-string-interning\equals\bin\Debug\net5.0\equals.exe
+C:\projects\net-string-interning\equals\bin\Debug\net5.0\equals.deps.json
+C:\projects\net-string-interning\equals\bin\Debug\net5.0\equals.runtimeconfig.json
+C:\projects\net-string-interning\equals\bin\Debug\net5.0\equals.runtimeconfig.dev.json
+C:\projects\net-string-interning\equals\bin\Debug\net5.0\equals.dll
+C:\projects\net-string-interning\equals\bin\Debug\net5.0\ref\equals.dll
+C:\projects\net-string-interning\equals\bin\Debug\net5.0\equals.pdb
+C:\projects\net-string-interning\equals\obj\Debug\net5.0\equals.dll
+C:\projects\net-string-interning\equals\obj\Debug\net5.0\ref\equals.dll
+C:\projects\net-string-interning\equals\obj\Debug\net5.0\equals.pdb
+C:\projects\net-string-interning\equals\obj\Debug\net5.0\equals.genruntimeconfig.cache

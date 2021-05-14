@@ -1,0 +1,6 @@
+1. cannot modify
+2. example on pointers
+3. unsafe example
+4. two strings
+5. interned
+6. equals

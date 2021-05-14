@@ -1,0 +1,16 @@
+C:\projects\net-string-interning\interned\obj\Debug\net5.0\interned.csprojAssemblyReference.cache
+C:\projects\net-string-interning\interned\obj\Debug\net5.0\interned.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\net-string-interning\interned\obj\Debug\net5.0\interned.AssemblyInfoInputs.cache
+C:\projects\net-string-interning\interned\obj\Debug\net5.0\interned.AssemblyInfo.cs
+C:\projects\net-string-interning\interned\obj\Debug\net5.0\interned.csproj.CoreCompileInputs.cache
+C:\projects\net-string-interning\interned\bin\Debug\net5.0\interned.exe
+C:\projects\net-string-interning\interned\bin\Debug\net5.0\interned.deps.json
+C:\projects\net-string-interning\interned\bin\Debug\net5.0\interned.runtimeconfig.json
+C:\projects\net-string-interning\interned\bin\Debug\net5.0\interned.runtimeconfig.dev.json
+C:\projects\net-string-interning\interned\bin\Debug\net5.0\interned.dll
+C:\projects\net-string-interning\interned\bin\Debug\net5.0\ref\interned.dll
+C:\projects\net-string-interning\interned\bin\Debug\net5.0\interned.pdb
+C:\projects\net-string-interning\interned\obj\Debug\net5.0\interned.dll
+C:\projects\net-string-interning\interned\obj\Debug\net5.0\ref\interned.dll
+C:\projects\net-string-interning\interned\obj\Debug\net5.0\interned.pdb
+C:\projects\net-string-interning\interned\obj\Debug\net5.0\interned.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\projects\net-string-interning\unsafe-example\bin\Debug\net5.0\unsafe-example.exe
+C:\projects\net-string-interning\unsafe-example\bin\Debug\net5.0\unsafe-example.deps.json
+C:\projects\net-string-interning\unsafe-example\bin\Debug\net5.0\unsafe-example.runtimeconfig.json
+C:\projects\net-string-interning\unsafe-example\bin\Debug\net5.0\unsafe-example.runtimeconfig.dev.json
+C:\projects\net-string-interning\unsafe-example\bin\Debug\net5.0\unsafe-example.dll
+C:\projects\net-string-interning\unsafe-example\bin\Debug\net5.0\ref\unsafe-example.dll
+C:\projects\net-string-interning\unsafe-example\bin\Debug\net5.0\unsafe-example.pdb
+C:\projects\net-string-interning\unsafe-example\obj\Debug\net5.0\unsafe-example.csprojAssemblyReference.cache
+C:\projects\net-string-interning\unsafe-example\obj\Debug\net5.0\unsafe-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\net-string-interning\unsafe-example\obj\Debug\net5.0\unsafe-example.AssemblyInfoInputs.cache
+C:\projects\net-string-interning\unsafe-example\obj\Debug\net5.0\unsafe-example.AssemblyInfo.cs
+C:\projects\net-string-interning\unsafe-example\obj\Debug\net5.0\unsafe-example.csproj.CoreCompileInputs.cache
+C:\projects\net-string-interning\unsafe-example\obj\Debug\net5.0\unsafe-example.dll
+C:\projects\net-string-interning\unsafe-example\obj\Debug\net5.0\ref\unsafe-example.dll
+C:\projects\net-string-interning\unsafe-example\obj\Debug\net5.0\unsafe-example.pdb
+C:\projects\net-string-interning\unsafe-example\obj\Debug\net5.0\unsafe-example.genruntimeconfig.cache

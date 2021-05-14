@@ -1,0 +1,16 @@
+C:\projects\net-string-interning\two-strings\obj\Debug\net5.0\two-strings.csprojAssemblyReference.cache
+C:\projects\net-string-interning\two-strings\obj\Debug\net5.0\two-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\net-string-interning\two-strings\obj\Debug\net5.0\two-strings.AssemblyInfoInputs.cache
+C:\projects\net-string-interning\two-strings\obj\Debug\net5.0\two-strings.AssemblyInfo.cs
+C:\projects\net-string-interning\two-strings\obj\Debug\net5.0\two-strings.csproj.CoreCompileInputs.cache
+C:\projects\net-string-interning\two-strings\bin\Debug\net5.0\two-strings.exe
+C:\projects\net-string-interning\two-strings\bin\Debug\net5.0\two-strings.deps.json
+C:\projects\net-string-interning\two-strings\bin\Debug\net5.0\two-strings.runtimeconfig.json
+C:\projects\net-string-interning\two-strings\bin\Debug\net5.0\two-strings.runtimeconfig.dev.json
+C:\projects\net-string-interning\two-strings\bin\Debug\net5.0\two-strings.dll
+C:\projects\net-string-interning\two-strings\bin\Debug\net5.0\ref\two-strings.dll
+C:\projects\net-string-interning\two-strings\bin\Debug\net5.0\two-strings.pdb
+C:\projects\net-string-interning\two-strings\obj\Debug\net5.0\two-strings.dll
+C:\projects\net-string-interning\two-strings\obj\Debug\net5.0\ref\two-strings.dll
+C:\projects\net-string-interning\two-strings\obj\Debug\net5.0\two-strings.pdb
+C:\projects\net-string-interning\two-strings\obj\Debug\net5.0\two-strings.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\projects\net-string-interning\cannot-modify\obj\Debug\net5.0\cannot-modify.csprojAssemblyReference.cache
+C:\projects\net-string-interning\cannot-modify\obj\Debug\net5.0\cannot-modify.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\net-string-interning\cannot-modify\obj\Debug\net5.0\cannot-modify.AssemblyInfoInputs.cache
+C:\projects\net-string-interning\cannot-modify\obj\Debug\net5.0\cannot-modify.AssemblyInfo.cs
+C:\projects\net-string-interning\cannot-modify\obj\Debug\net5.0\cannot-modify.csproj.CoreCompileInputs.cache

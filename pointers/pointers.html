@@ -1,0 +1,65 @@
+<html>
+  <head>
+    <style>
+      [container] {
+        display: flex;
+        flex-direction: row;
+        width: 20em;
+      }
+
+      [char] {
+        width: 1.5em;
+        display: inline-block;
+      }
+
+      [item-container] {
+        margin: 0.25em;
+        border: thin solid gray;
+        width: 4em;
+        text-align: center;
+        padding: 0.2em;
+      }
+      body {
+        margin: 3em;
+      }
+    </style>
+
+    <script>
+      function displayContainer(input) {
+        const container = document.querySelector("[container]");
+        const createEntry = (p) => {
+          const { char, num, container } = p;
+
+          const lContainer = document.createElement("div");
+          const cContainer = document.createElement("span");
+          const nContainer = document.createElement("span");
+
+          cContainer.innerHTML = char == " " ? "&nbsp;" : char;
+          nContainer.innerHTML = num;
+
+          cContainer.setAttribute("char", "");
+          nContainer.setAttribute("position", "");
+          lContainer.setAttribute("item-container", "");
+
+          lContainer.appendChild(cContainer);
+          lContainer.appendChild(nContainer);
+
+          container.appendChild(lContainer);
+
+          return { num: num + 2, container };
+        };
+
+        const reducer = (i, c) => {
+          console.log(Object.assign({}, i, { char: c }));
+
+          return createEntry(Object.assign({}, i, { char: c }));
+        };
+
+        input.split("").reduce(reducer, { num: 1000, container });
+      }
+    </script>
+  </head>
+  <body onload="displayContainer('Hello World!!'.toUpperCase())">
+    <div container></div>
+  </body>
+</html>
